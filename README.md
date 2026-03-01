@@ -24,4 +24,4 @@ Kod źródłowy aplikacji jest w pełni kompletny i zgodny z wymaganiami.
 
 ## Autor
 
-[Twoje Imię i Nazwisko]
+Dawid Warsiński
